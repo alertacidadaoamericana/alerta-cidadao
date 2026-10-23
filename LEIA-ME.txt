@@ -1,0 +1,7 @@
+ALERTA CIDADÃO | ACOLHER — protótipo independente
+
+Abra index.html em navegador moderno. Site estático, sem servidor e sem coleta de dados.
+Inclui simulação educativa e diretório pesquisável de serviços de Americana.
+IMPORTANTE: endereços, telefones, disponibilidade e critérios de acesso devem ser confirmados antes da divulgação oficial.
+Não é canal de denúncia, agendamento ou atendimento psicológico. Não utiliza símbolos oficiais.
+Para publicação, solicite revisão jurídica e autorização institucional se houver associação à Polícia Civil.
